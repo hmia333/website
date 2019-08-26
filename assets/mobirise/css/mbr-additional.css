@@ -1506,42 +1506,30 @@ body {
 .cid-rA6XBidqWg .card {
   padding-bottom: 1.5rem;
 }
-.cid-rA75PJ7G6r {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
+.cid-rA72YC0xz6 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #f3f4f6;
 }
-.cid-rA75PJ7G6r h4 {
+.cid-rA72YC0xz6 .testimonial-text {
+  font-style: italic;
+  color: #676767;
+  font-weight: 300;
+}
+.cid-rA72YC0xz6 .mbr-author-name {
+  font-weight: bold;
+  color: #232;
   text-align: left;
-  font-weight: 500;
 }
-.cid-rA75PJ7G6r p {
-  color: #767676;
-  text-align: left;
-  margin-bottom: 0;
-}
-.cid-rA75PJ7G6r .card-img {
-  text-align: left;
-  -webkit-flex: 1 0 auto;
-  flex: 1 0 auto;
-  width: auto;
-}
-.cid-rA75PJ7G6r .card-img span {
-  font-size: 72px;
-  color: #ff3366;
-}
-.cid-rA75PJ7G6r .card-box {
-  padding-left: 1rem;
-  word-break: break-word;
-  width: 100%;
+.cid-rA72YC0xz6 .mbr-author-desc {
+  color: #232;
 }
 @media (max-width: 991px) {
-  .cid-rA75PJ7G6r .card-img {
-    text-align: left;
-    padding-bottom: 0.75rem;
-  }
-  .cid-rA75PJ7G6r .card-box {
-    padding-left: 0;
+  .cid-rA72YC0xz6 .mbr-figure,
+  .cid-rA72YC0xz6 img {
+    max-height: 300px;
+    width: auto;
+    margin: auto;
   }
 }
 .cid-rA738CuoYZ {
@@ -1592,30 +1580,42 @@ body {
     width: 100% !important;
   }
 }
-.cid-rA72YC0xz6 {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #f3f4f6;
+.cid-rA75PJ7G6r {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
 }
-.cid-rA72YC0xz6 .testimonial-text {
-  font-style: italic;
-  color: #676767;
-  font-weight: 300;
-}
-.cid-rA72YC0xz6 .mbr-author-name {
-  font-weight: bold;
-  color: #232;
+.cid-rA75PJ7G6r h4 {
   text-align: left;
+  font-weight: 500;
 }
-.cid-rA72YC0xz6 .mbr-author-desc {
-  color: #232;
+.cid-rA75PJ7G6r p {
+  color: #767676;
+  text-align: left;
+  margin-bottom: 0;
+}
+.cid-rA75PJ7G6r .card-img {
+  text-align: left;
+  -webkit-flex: 1 0 auto;
+  flex: 1 0 auto;
+  width: auto;
+}
+.cid-rA75PJ7G6r .card-img span {
+  font-size: 72px;
+  color: #ff3366;
+}
+.cid-rA75PJ7G6r .card-box {
+  padding-left: 1rem;
+  word-break: break-word;
+  width: 100%;
 }
 @media (max-width: 991px) {
-  .cid-rA72YC0xz6 .mbr-figure,
-  .cid-rA72YC0xz6 img {
-    max-height: 300px;
-    width: auto;
-    margin: auto;
+  .cid-rA75PJ7G6r .card-img {
+    text-align: left;
+    padding-bottom: 0.75rem;
+  }
+  .cid-rA75PJ7G6r .card-box {
+    padding-left: 0;
   }
 }
 .cid-rA75hpM76E {
